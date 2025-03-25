@@ -1,5 +1,6 @@
 # Project-Spotify-DAIN
 BeachHacks 2025
+https://beachhacks-assistant.dain.org/
 
 Dependencies:
 - NPM
