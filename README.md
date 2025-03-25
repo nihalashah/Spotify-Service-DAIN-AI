@@ -1,19 +1,44 @@
-# Project-Spotify-DAIN
-BeachHacks 2025
-https://beachhacks-assistant.dain.org/
+# 🎵 Project-Spotify-DAIN  
+🚀 *BeachHacks 2025*
 
-**WATCH THE COMPLETE VIDEO OVER HERE**
+This project integrates **Spotify Service with DAIN AI**, allowing users to fetch and visualize artist data directly through the DAIN AI platform. It's a smooth blend of music and AI, built during BeachHacks 2025!
+
+🧠 **Try it out here**: [https://beachhacks-assistant.dain.org/](https://beachhacks-assistant.dain.org/)
+
+---
+
+## 🎥 Watch the Complete Demo
 
 [![CLICK TO WATCH VIDEO](https://img.youtube.com/vi/25kLYKLZCk0/0.jpg)](https://www.youtube.com/watch?v=25kLYKLZCk0)
 
-Dependencies:
-- NPM
-- Dain AI
-- Python Reqests
-- Spotify API
+---
 
-Features:
-- Genres from Artist
-- Artist Info
-- Artist Followers
-- Artist's Top 10 Tracks
+## ⚙️ Dependencies
+
+- NPM  
+- DAIN AI  
+- Python Requests  
+- Spotify API  
+
+---
+
+## 🎧 Features (All with Visuals!)
+
+- 🎤 Get Artist Info  
+- 📊 Get Followers Count  
+- 🎼 Get Genres  
+- 🎶 Get Artist's Top 10 Tracks  
+
+This integration is ideal for anyone exploring AI-driven music insights, building music apps, or enhancing conversational AI with real-time Spotify data.
+
+---
+
+## 📌 Stay Connected
+
+Like, comment, and subscribe for more cool AI projects and hackathon builds!
+
+---
+
+### 🔖 Tags
+
+`#BeachHacks2025` `#DAINAI` `#SpotifyAPI` `#HackathonProject` `#AIxMusic` `#SpotifyIntegration` `#OpenSource` `#TopTracks` `#ArtistInfo`
