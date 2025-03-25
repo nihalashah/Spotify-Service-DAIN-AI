@@ -33,11 +33,6 @@ This integration is ideal for anyone exploring AI-driven music insights, buildin
 
 ---
 
-## 📌 Stay Connected
-
-Like, comment, and subscribe for more cool AI projects and hackathon builds!
-
----
 
 ### 🔖 Tags
 
