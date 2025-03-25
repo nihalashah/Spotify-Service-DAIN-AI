@@ -15,7 +15,7 @@ This project integrates **Spotify Service with DAIN AI**, allowing users to fetc
 
 ## ⚙️ Dependencies
 
-- NPM  
+- Node.js version 22 
 - DAIN AI  
 - Python Requests  
 - Spotify API  
